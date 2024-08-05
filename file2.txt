@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 commt reset 2
 commt reset 2
+=======
+hello-world python
+>>>>>>> 6c58b0860399dfb227fd93ca2c85beef022b29f0
